@@ -1,1 +1,1 @@
-# ChatGPT-3-Script
+# ChatGPT 3 Python Script
